@@ -4,7 +4,7 @@
 
 ### Computer Science Student • 2D Indie Game Developer in My Free Time
 
-<img src="./assets/flowey-transparent.png" width="150" alt="Flowey pixel art">
+<img src="./flowey-transparent.png" width="150" alt="Flowey pixel art">
 
 📍 Porto Alegre, Brazil
 
@@ -56,7 +56,7 @@
 <tr>
 <td width="40%" align="center">
 
-<img src="./assets/omori-cook-transparent.png" height="340" alt="Omori cook character">
+<img src="./omori-cook-transparent.png" height="340" alt="Omori cook character">
 
 </td>
 
