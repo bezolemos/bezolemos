@@ -32,7 +32,7 @@
 
 <td width="30%" align="center">
 
-<img src="./zombot.png" width="190" alt="Zombot character">
+<img src="./zombot(1).png" width="190" alt="Zombot character">
 
 </td>
 </tr>
