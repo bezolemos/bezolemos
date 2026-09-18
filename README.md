@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hello There! I'm Bernardo Lemos
+# 👋 Hello! I'm Bernardo Lemos
 
-### Computer Science Student • 2D Indie Game Developer 
+### Computer Science Student • 2D Indie Game Developer in My Free Time
 
 <img src="./flowey-transparent.png" width="150" alt="Flowey pixel art">
 
@@ -14,6 +14,10 @@
 
 ## 👨‍💻 About Me
 
+<table>
+<tr>
+<td width="70%">
+
 - 🎓 Computer Science undergraduate student
 - 🎮 I develop 2D indie games in my free time
 - 💻 IT Technician specialized in Internet Computing
@@ -22,7 +26,17 @@
 - 🥽 Interested in virtual reality development
 - ⚙️ Passionate about creating physics simulators
 - 🔌 Experience with Arduino and physical computing projects
-- 📚 Expanding my knowledge of Python, Java, C#, Unity, and Arduino
+- 📚 Expanding my knowledge of Python, Java, C#, GameMaker Studio, Unity, and Arduino
+
+</td>
+
+<td width="30%" align="center">
+
+<img src="./zombot.png" width="190" alt="Zombot character">
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -41,6 +55,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" title="GitHub" alt="GitHub"/>
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50" title="Unity" alt="Unity"/>
+&nbsp;
+<img src="https://cdn.simpleicons.org/gamemaker/000000/FFFFFF" width="50" title="GameMaker Studio" alt="GameMaker Studio"/>
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" title="Visual Studio Code" alt="Visual Studio Code"/>
 &nbsp;
@@ -111,3 +127,4 @@ The simulator analyzes:
 ### Thanks for visiting my profile! 🚀
 
 </div>
+
