@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hello! I'm Bernardo Lemos
+# 👋 Hello There! I'm Bernardo Lemos
 
-### Computer Science Student • 2D Indie Game Developer in My Free Time
+### Computer Science Student • 2D Indie Game Developer 
 
 <img src="./flowey-transparent.png" width="150" alt="Flowey pixel art">
 
